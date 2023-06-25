@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @xuxog
 - 👀 I’m interested in coding 
 - 👀 coding never finish
-- 🌱 if more code :
+-     if more code :
 -       hair --
 -     else :
 -       money -- 
